@@ -1,1 +1,3 @@
-# formulario
+1)A tag <header> é usada para definir o cabeçalho de uma página ou seção, enquanto a <footer> define o rodapé. A <main> representa o conteúdo principal de um documento, e a <section> é usada para definir uma seção genérica de conteúdo. A <article> representa um conteúdo independente e autocontido, e a <aside> é usada para definir um conteúdo relacionado, mas separado do conteúdo principal. 
+
+2)A tag <fieldset> é utilizada para agrupar elementos dentro de um formulário, melhorando a organização e a acessibilidade. No contexto da última aula, ela seria relevante para agrupar campos relacionados, como informações de contato. 
